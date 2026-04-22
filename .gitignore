@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+kursovaya_polnaya.txt
+kursovaya_report.txt
+*.png
+.DS_Store
